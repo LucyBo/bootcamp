@@ -1,0 +1,14 @@
+{
+  "name": "lu",
+  "version": "1.0.0",
+  "description": "more express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
